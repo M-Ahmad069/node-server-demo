@@ -5,7 +5,9 @@
 Verified Node.js and npm were installed by running `node -v` and `npm -v` in the terminal.
 
 ## Step 2: Create Project Folder
-[drag your mkdir/cd screenshot here]
+<img width="433" height="35" alt="image" src="https://github.com/user-attachments/assets/056c10ce-55f7-4c77-ac38-07279bcb28ae" />
+<img width="422" height="24" alt="image" src="https://github.com/user-attachments/assets/d4859ab1-16bf-4321-8ce5-386687f08fcc" />
+
 Created a project folder and navigated into it using `mkdir` and `cd`.
 
 ## Step 3: Initialize the Project
