@@ -20,7 +20,8 @@ Ran `npm init -y` to generate a package.json file for the project.
 Created server.js using Node's built-in http module to handle requests and respond with "Hello Javascript".
 
 ## Step 5: Start the Server
-<img width="859" height="569" alt="image" src="https://github.com/user-attachments/assets/46865eec-3c05-4b78-a05b-32415aa23e95" />
+<img width="595" height="83" alt="image" src="https://github.com/user-attachments/assets/f0ffa9ce-b087-4aac-992a-a836d12ce6c5" />
+
 Ran `node server.js` to start the server, confirmed by the console log message.
 
 ## Step 6: Test in Browser
