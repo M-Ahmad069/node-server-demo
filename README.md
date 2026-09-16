@@ -11,8 +11,8 @@ Verified Node.js and npm were installed by running `node -v` and `npm -v` in the
 Created a project folder and navigated into it using `mkdir` and `cd`.
 
 ## Step 3: Initialize the Project
-<img width="488" height="30" alt="image" src="https://github.com/user-attachments/assets/fda93484-487b-48d5-90bb-f68c5b7cb0ab" />
-<img width="455" height="30" alt="image" src="https://github.com/user-attachments/assets/ec3b46dc-719f-4464-8a55-fcdfbcfde2e1" />
+<img width="807" height="414" alt="image" src="https://github.com/user-attachments/assets/621e63ab-7e45-40b3-88b9-b3c28b7782cc" />
+
 Ran `npm init -y` to generate a package.json file for the project.
 
 ## Step 4: Create Server File
